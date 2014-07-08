@@ -1,0 +1,15 @@
+Table of Contents:
+
+1. modernizr.custom.38837.js(modernizr.com):
+    <script src="modernizr.custom.38837.js"></script>
+    ^^before body(in head) and after the css docs.
+
+2. CSS Reset(doesn't need updates; user can self-update.):
+  <link rel"stylesheet" href="reset.css" type="text/css"/>
+  For making CSS consistent across many things.
+  Put as a css, as the first CSS document in the folders.
+
+3. jQuery (http://jquery.com/download/) and/or jQuery UI(http://jqueryui.com/download/#!):
+  <script src="jquery-2.1.1.min.js"></script>
+  Library for JS functions.
+  Put as a script.
